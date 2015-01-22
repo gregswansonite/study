@@ -1,0 +1,38 @@
+Bootstrap:
+
+DOM:
+
+Server Side:
+
+Client Side:
+
+Package Management:
+
+gitHub:
+
+SublimeText:
+
+Javascript Framework:
+
+MVC:
+
+SASS:
+
+CSS:
+
+HTML:
+
+jQuery:
+
+Angular:
+
+FTP:
+
+SSH:
+
+Grunt:
+
+JSON:
+
+Single Page Application SPA:
+
