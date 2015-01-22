@@ -1,0 +1,17 @@
+Sublime Text - Text Editor
+FTP Filezilla - Upload a site
+---------
+HTML5 New Tags
+CSS3 New Tags
+Javascript Basics 
+JSON vS XML (Data Storage Format)
+---------
+GitHub (Version Control)
+Bootstrap (CSS)
+jQuery (Javascript)
+Sass (CSS)
+---------
+Angular- Build SPA single page app (Javascript)	
+Grunt/Gulp- learn the developer workflow
+LINUX- administer your webservers via command prompt
+SSH- administer your webserver remotely
