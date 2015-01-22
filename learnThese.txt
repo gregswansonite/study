@@ -1,4 +1,8 @@
+LOOK THESE UP AND FILL IN THE DEFINITION
+
 Bootstrap:
+
+CDN:
 
 DOM:
 
@@ -6,13 +10,13 @@ Server Side:
 
 Client Side:
 
-Package Management:
+Version Control:
 
 gitHub:
 
 SublimeText:
 
-Javascript Framework:
+Javascript Framework/Library:
 
 MVC:
 
@@ -36,3 +40,12 @@ JSON:
 
 Single Page Application SPA:
 
+-----------------------------------------------------------------
+
+MEMORIZE THESE CODE SNIPPETS:
+
+css insertions 
+
+-----------------------------------------------------------------
+
+WATCH THESE VIDS
