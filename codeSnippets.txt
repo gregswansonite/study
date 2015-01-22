@@ -1,0 +1,14 @@
+Must know code snippets
+
+HTML:
+
+Javascript:
+
+JSON:
+
+XML:
+
+jQuery:
+
+Angular:
+

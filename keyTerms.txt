@@ -39,13 +39,3 @@ Grunt:
 JSON:
 
 Single Page Application SPA:
-
------------------------------------------------------------------
-
-MEMORIZE THESE CODE SNIPPETS:
-
-css insertions 
-
------------------------------------------------------------------
-
-WATCH THESE VIDS
